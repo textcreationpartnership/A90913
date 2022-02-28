@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Col. Poyer, and Col. Povvel, and the officers and soldiers under their command, which they desired to be published to the whole kingdome. Wherein they declare their intentions for restoring His Majesty to his just prerogative, and the lawes to their due course, for the maintenance of the Protestant religion, and the liberty of the subject : which was the ground of their first taking up armes, and for which they are resolved to live and die. April 10. 1648.</title>
+            <author>Poyer, John, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90913</idno>
+            <idno type="STC">Wing P3122</idno>
+            <idno type="STC">Thomason E435_9</idno>
+            <idno type="STC">ESTC R203201</idno>
+            <idno type="EEBO-CITATION">99863247</idno>
+            <idno type="PROQUEST">99863247</idno>
+            <idno type="VID">161580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Col. Poyer, and Col. Povvel, and the officers and soldiers under their command, which they desired to be published to the whole kingdome. Wherein they declare their intentions for restoring His Majesty to his just prerogative, and the lawes to their due course, for the maintenance of the Protestant religion, and the liberty of the subject : which was the ground of their first taking up armes, and for which they are resolved to live and die. April 10. 1648.</title>
+                  <author>Poyer, John, d. 1649.</author>
+                  <author>Powell, Colonel.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161580:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF Col. POYER, and Col. POVVEL, and the Officers and Soldiers under their Command, which they deſired to be publiſhed to the whole Kingdome.</p>
+            <p>Wherein they declare their Intentions for Reſto<g ref="char:EOLhyphen"/>ring His Majeſty to His juſt Prerogative, and the Lawes to their due Courſe, for the maintenance of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, and the Liberty of the Subject:</p>
+            <p>Which was the Ground of their firſt taking up Armes, and for which they are reſolved to Live and Die.</p>
+            <p>
+               <hi>April</hi> 10. 1648.</p>
+            <p>
+               <hi>Printed in the Yeare</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161580:2"/>
+            <pb n="1" facs="tcp:161580:2"/>
+            <head>The Declaration of Colonel <hi>POYER,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is notorious enough upon what grounds this <hi>War</hi> was by us undertaken; how the <hi>faults</hi> of <hi>Govern<g ref="char:EOLunhyphen"/>ment</hi> precedent were layd open and reformation promiſed, wherein <hi>the true Religion ſhould be advanced, the King made great and glorious, and the juſt Priviledges of Parliament, the Lawes of the Land, and the Liberty of the People maintained:</hi> But now how much our expectations have failed us, and how we have runne into thoſe evills which wee fought a<g ref="char:EOLhyphen"/>gainſt, is at laſt too apparent unto
+<pb n="2" facs="tcp:161580:3"/>us, who would not at the firſt be<g ref="char:EOLhyphen"/>lieve the things wee now ſee, inſo<g ref="char:EOLhyphen"/>much that the <hi>Errours</hi> of the <hi>former Government,</hi> are now ſo farre <hi>excee<g ref="char:EOLhyphen"/>ded</hi> both in <hi>Church</hi> and <hi>Common<g ref="char:EOLhyphen"/>wealth;</hi> that they are either <hi>juſtified,</hi> or at leaſt ſo much <hi>excuſed,</hi> as that it is deſired by the moſt and beſt of men, rather to enjoy the <hi>former</hi> a<g ref="char:EOLhyphen"/>gaine, then to ſuffer ſuch a <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> wherein the <hi>Publique good</hi> is <hi>pretended,</hi> and the <hi>particular ends</hi> of the <hi>Reformers intended.</hi>
+            </p>
+            <p>For although our Party have prevailed almoſt theſe <hi>three yeeres,</hi> and the <hi>King</hi> in the power of the <hi>Reformers</hi> almoſt theſe <hi>two yeeres;</hi> yet the things promiſed to be <hi>refor<g ref="char:EOLhyphen"/>med,</hi> and which wee <hi>fought</hi> for, are ſcarce ſo much as entred into, or
+<pb n="3" facs="tcp:161580:3"/>
+               <hi>debated,</hi> but cleane contrary things now <hi>acted.</hi>
+            </p>
+            <p>The <hi>King</hi> inſtead of comming to his <hi>Parliament</hi> to <hi>treate perſonally</hi> with his two Houſes, <hi>impriſoned;</hi> inſtead of being made <hi>Great</hi> and <hi>Glorious,</hi> is become the moſt <hi>infor<g ref="char:EOLhyphen"/>tunate</hi> in the World, and <hi>great</hi> and <hi>glorious</hi> onely in <hi>Piety, Patience,</hi> and <hi>Pitty:</hi> our <hi>Religion, Lawes,</hi> and <hi>Liberties</hi> ſo much <hi>trampled</hi> upon, and <hi>deſtroyed,</hi> and the greateſt <hi>Ty<g ref="char:EOLhyphen"/>ranny,</hi> and <hi>Arbitrary Power</hi> ſet over us, that the <hi>wit</hi> of <hi>man, or malice</hi> of the <hi>Devil</hi> can invent, and all this but to ſatisfie the <hi>Avarice</hi> and <hi>Am<g ref="char:EOLhyphen"/>bition</hi> of a few men, who by accu<g ref="char:EOLhyphen"/>ſing their <hi>Brethren</hi> have already gotten too much power into their hands, and do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now labour to <hi>dis<g ref="char:EOLhyphen"/>band</hi>
+               <pb n="4" facs="tcp:161580:4"/>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, not to <hi>eaſe</hi> the <hi>Country</hi> (as is pretended) but as wee are able to prove by their owne <hi>Letters</hi> and <hi>words</hi> to bring in other <hi>Forces,</hi> ſuch as may execute their <hi>Wals,</hi> and make the <hi>Gentry</hi> ſubject to <hi>Sequeſtration, inſlawe</hi> the <hi>People,</hi> and (to uſe their owne words) <hi>Roll the Country before them:</hi> and to eſtabliſh <hi>Exciſe, Taxes.</hi> and other <hi>intollerable charges,</hi> not to be avoided, without the effuſion of more bloud, then hath yet beene ſhed in this Quarrell, unleſſe <hi>God</hi> of his infinite mercy pleaſe to direct it by ſome meanes not appearing to us: And that they might (as much as in them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es) deſtroy our <hi>Soules</hi> as well as our <hi>bodies;</hi> They goe about to put downe the <hi>Booke</hi> of <hi>Common-prayer</hi> in theſe parts, as
+<pb n="5" facs="tcp:161580:4"/>they have already done in the reſt of the Kingdome, which will be more wanted heere, then in other parts; becauſe the <hi>Booke</hi> of <hi>Common-pray<g ref="char:EOLhyphen"/>er</hi> is the ſole comfort of the people heere, and their way to attaine the knowledge of the <hi>Principles</hi> of <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> and coſer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>God:</hi> theſe things though evidentin themſelves, yet we ſhat be ready to make pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe of, as occaſion ſhall require: And therefore that the whole world may ſee our integrity, as well in the un<g ref="char:EOLhyphen"/>dertaking this <hi>Warre</hi> in the begin<g ref="char:EOLhyphen"/>ning, and our <hi>Carriage</hi> hitherto, as of our <hi>intentions</hi> for the <hi>future,</hi> wee doe now declare:</p>
+            <p>That wee doe ſtill continue to our <hi>firſt Principles,</hi> to bring the King to a <hi>Perſonall Treaty</hi> with his
+<pb n="6" facs="tcp:161580:5"/>Parliament with <hi>Honour, Freedome,</hi> and <hi>Safety,</hi> that ſo the juſt <hi>Preroga<g ref="char:EOLhyphen"/>tive</hi> of the <hi>King, Priviledges</hi> of <hi>Par<g ref="char:EOLhyphen"/>liament, Lawes</hi> of the <hi>Land,</hi> and <hi>Li<g ref="char:EOLhyphen"/>berties</hi> of the <hi>people,</hi> may be all <hi>eſta<g ref="char:EOLhyphen"/>bliſhed</hi> and <hi>preſerved</hi> in their <hi>proper bounds,</hi> that wee will as much as in us lyes <hi>protect</hi> the <hi>people</hi> from <hi>Injury,</hi> and maintaine the <hi>Proteſtant Reli<g ref="char:EOLhyphen"/>gion,</hi> and the <hi>Common-prayer</hi> as it is eſtabliſhed by <hi>Law</hi> in this Land, and therfore crave the <hi>Aſsiſtance</hi> of the <hi>whole Kingdome</hi> therein.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
